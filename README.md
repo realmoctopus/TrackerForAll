@@ -146,19 +146,6 @@ Attach the **AvatarMocap** script to your avatar and configure:
 
 ---
 
-## 📦 Demo Assets Download
-
-Download robot and character models, textures, and prefabs.
-Convert models to **Humanoid** rig before use.
-
-- https://drive.google.com/file/d/1xpTdJwDmOL8ZilatmEcO_sRUbelo7x8o/view
-- https://drive.google.com/file/d/1DgtH_AT45bFw4gzE6JuEKSANO--_Ap0-/view
-
-**Video Source**
-- https://drive.google.com/file/d/1Cx4qXr_O3l6I6EUU7H_hseDIr8ZDWnrK/view
-
----
-
 ## ⚡ Performance Tips
 
 - Use **Lite models** for Android/iOS
